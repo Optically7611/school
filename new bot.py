@@ -1,3 +1,4 @@
+import discord
 import time
 from selenium import webdriver
 from fake_useragent import UserAgent
